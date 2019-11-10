@@ -68,7 +68,7 @@ while final > 9999999999999999:
 
 print 'encoded number = ' + str(final)
 
-print 'Descrypting ...'
+print 'Decrypting ...'
 print 'Cipher to decrypt = ' + str(final)
 l , r = dec(final, 6)
 final = l + r
