@@ -2,7 +2,7 @@
 
 **This is a simple python project from my early days as a Computer Science student**
 
-_This programm was created for the fourth semester class Cryptography 
+_This programm was created for the fifth semester class Cryptography 
 and it is the final project necessary to pass the class_
 
 > #### Description of project
